@@ -64,7 +64,7 @@ variable "Threshold" {
 }
 
 variable "TreatMissingData" {
-  default = "ignore"
+  default = "notBreaching"
 }
 
 variable "Unit" {
